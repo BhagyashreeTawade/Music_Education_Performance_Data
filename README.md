@@ -76,8 +76,8 @@ Instrument_Type: The musical instrument used during the lesson (e.g., Piano, Gui
 - Tempo and pitch distribution analyses show varied learning challenges across instruments.
 
 ## Technologies Used
-#- Programming Language: Python
-#- Libraries:
+- #Programming Language: Python
+- #Libraries:
   - Pandas: Data manipulation and analysis
   - Matplotlib: Data visualization
   - NumPy: Numerical calculations
