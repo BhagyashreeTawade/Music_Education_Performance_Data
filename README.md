@@ -58,7 +58,7 @@ Instrument_Type: The musical instrument used during the lesson (e.g., Piano, Gui
 
 1.Demographic Insights:
 - The dataset includes a balanced gender distribution: analyzed using pie charts for male and female students. 
- Age distribution revealed a concentration of students in certain age ranges, helping identify target demographics.
+ - Age distribution revealed a concentration of students in certain age ranges, helping identify target demographics.
 
 2.Performance Drivers:
 - Age shows a significant influence on the Performance_Score, with trends visualized using scatter plots.
