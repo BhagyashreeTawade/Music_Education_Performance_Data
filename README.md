@@ -54,19 +54,25 @@ Lesson_Type: Type of lesson conducted (e.g., group, individual).
 Instrument_Type: The musical instrument used during the lesson (e.g., Piano, Guitar, Violin).
 
 
-Key Insights
-1. Gender-Based Insights
-Males exhibited slightly higher engagement scores than females, but stress levels were comparable across genders.
-Females showed higher performance scores in rhythm-based tasks.
-2. Stress and Engagement Relationship
-A moderate negative correlation was observed between Stress_Level and Engagement_Score, suggesting that lower stress levels lead to higher engagement.
-3. Impact of Focus Time
-Students with higher Focus_Time showed consistent improvement in Skill_Development and Performance_Score.
-Optimal focus time for peak skill development was around 45 minutes per session.
-4. Instrument-Specific Trends
-String instruments like the violin had higher average engagement scores compared to percussion instruments.
-Piano learners showed the highest Performance_Score but also reported elevated stress levels.
-5. Lesson Type Analysis
-Group lessons fostered higher engagement levels but slightly lower Skill_Development compared to individual lessons.
-Online lessons showed greater variation in Stress_Level compared to in-person lessons.
+## Key Insights:
+
+1.Demographic Insights:
+- The dataset includes a balanced gender distribution: analyzed using pie charts for male and female students. 
+ Age distribution revealed a concentration of students in certain age ranges, helping identify target demographics.
+
+2.Performance Drivers:
+- Age shows a significant influence on the Performance_Score, with trends visualized using scatter plots.
+- Differences in Performance_Score between male and female students were identified using box plots, showing that gender may slightly impact performance.
+
+3.Engagement Patterns:
+- Average Engagement_Score across different Class_Level revealed that higher class levels correspond to slightly lower engagement levels.
+
+4.Lesson Analysis:
+- The average Accuracy was higher for individual lessons compared to group lessons.
+- Blood pressure levels varied significantly across lesson types, potentially indicating stress differences.
+
+5.Instrument Type Trends:
+- Gender influences the choice of Instrument_Type, with trends visualized in bar charts.
+- Tempo and pitch distribution analyses show varied learning challenges across instruments.
+
 
